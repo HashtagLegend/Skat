@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skat", "Skat\Skat.csproj", "{BF7CD155-355F-426B-A8AD-BB3706D5BEE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skat.tests", "Skat.tests\Skat.tests.csproj", "{5848AF5A-7A3C-49A2-B32A-C86BDB5452FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF7CD155-355F-426B-A8AD-BB3706D5BEE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF7CD155-355F-426B-A8AD-BB3706D5BEE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF7CD155-355F-426B-A8AD-BB3706D5BEE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF7CD155-355F-426B-A8AD-BB3706D5BEE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5848AF5A-7A3C-49A2-B32A-C86BDB5452FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5848AF5A-7A3C-49A2-B32A-C86BDB5452FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5848AF5A-7A3C-49A2-B32A-C86BDB5452FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5848AF5A-7A3C-49A2-B32A-C86BDB5452FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAD60DF0-C668-400F-9F10-B1F2AAFC6E8F}
+	EndGlobalSection
+EndGlobal
